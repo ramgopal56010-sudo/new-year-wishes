@@ -1,0 +1,43 @@
+body {
+    background: linear-gradient(to right, #ff512f, #dd2476);
+    font-family: 'Segoe UI', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.card {
+    margin-top: 80px;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+.from {
+    font-size: 18px;
+    margin-top: 15px;
+    color: #ffeb3b;
+}
+
+.wish {
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+#shayari {
+    margin: 25px 0;
+    font-size: 20px;
+    font-style: italic;
+}
+
+button {
+    padding: 12px 25px;
+    font-size: 16px;
+    background: #fff;
+    color: #dd2476;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 8px;
+}
